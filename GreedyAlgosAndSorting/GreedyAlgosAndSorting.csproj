@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="GreedyFlorist.cs" />
     <Compile Include="LuckBalance.cs" />
+    <Compile Include="MaxMin.cs" />
     <Compile Include="MinimumAbsDifference.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

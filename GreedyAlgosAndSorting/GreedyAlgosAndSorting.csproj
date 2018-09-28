@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CrosswordPuzzle.cs" />
     <Compile Include="GreedyFlorist.cs" />
+    <Compile Include="IceCreamParlor.cs" />
     <Compile Include="LuckBalance.cs" />
     <Compile Include="MakingAnagrams.cs" />
     <Compile Include="MaxMin.cs" />

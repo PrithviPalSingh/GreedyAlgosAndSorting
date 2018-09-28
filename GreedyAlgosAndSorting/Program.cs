@@ -14,7 +14,12 @@ namespace GreedyAlgosAndSorting
             //long[] c = Array.ConvertAll(str.Split(' '), cTemp => Convert.ToInt64(cTemp));
             //Console.WriteLine(GreedyFlorist.getMinimumCost(3, c));
 
-            MaxMin.maxMin(3, new int[] { 100, 200, 300, 350, 400, 401, 402 });
+            //MaxMin.maxMin(3, new int[] { 100, 200, 300, 350, 400, 401, 402 });
+            //Console.Read();
+
+            //Console.WriteLine(IceCreamParlor.Fibonacci(3));
+
+            Console.WriteLine(IceCreamParlor.flippingBits(4));
             Console.Read();
         }
     }
